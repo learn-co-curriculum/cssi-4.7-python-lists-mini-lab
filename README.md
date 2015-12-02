@@ -39,3 +39,5 @@ type: lab
 [-]
 
 ???
+
+<a href='https://learn.co/lessons/cssi-4.7-python-lists-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
